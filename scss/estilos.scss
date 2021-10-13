@@ -1,0 +1,23 @@
+.container-fluid{
+    border: 5px green solid;
+    padding: 10px;
+}
+h1{
+    color: green;
+}
+li{
+    list-style-type: none;
+}
+
+#genero{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+#hombre, #mujer{
+    margin-right: 8px;
+    padding: 5px;
+}
+
+#campo{
+    display: none;
+}
